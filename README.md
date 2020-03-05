@@ -18,7 +18,7 @@ Er hat ein paar Funktionen wie:
 * Ausleihen
 * Abstellen
 * Fahrrad Erstellen
-* Verschiede Benutzerklassen
+* Verschiedene Benutzerklassen
 uvm.
 
 Wenn ihr Fragen habt, stellt sie einfach :)
@@ -28,4 +28,4 @@ Wenn ihr Fragen habt, stellt sie einfach :)
 
 ## Authors
 
-* **Bo Kern** - *Initial work* - [Twitter](https://twitter.com/Kuhjuice)
+* **Bo Kern** - *Initial work*
