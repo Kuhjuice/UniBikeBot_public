@@ -1,1 +1,1 @@
-bot: python testmedaddy.py
+bot: python test.py
