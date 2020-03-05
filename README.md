@@ -1,9 +1,9 @@
-# TelegramBikeBot
+# UniBikeBot
 ## Info
 ### ENG
 A telegram bot with which you can share bicycles. 
 It has a few functions like:
-* Borrowing
+* Renting
 * Return
 * Create Bicycle
 * Different User-Classes
@@ -24,7 +24,7 @@ uvm.
 Wenn ihr Fragen habt, stellt sie einfach :)
 
 ## Getting Started
-If there is any request ill do it.
+
 
 ## Authors
 
