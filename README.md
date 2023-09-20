@@ -23,8 +23,6 @@ UniBikeBot ist ein Telegram-Bot, der sich auf die gemeinsame Nutzung von Fahrrä
 
 Falls Sie Fragen haben oder Unterstützung benötigen, zögern Sie nicht, sie zu stellen! 🙋‍♂️🙋‍♀️
 
-## Getting Started 🚀
-
 ## Author
 
 * **Bo Kern** - *Initial work*
