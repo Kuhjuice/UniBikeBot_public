@@ -1,31 +1,30 @@
-# UniBikeBot
-## Info
-### ENG
-A telegram bot with which you can share bicycles. 
-It has a few functions like:
-* Renting
-* Return
-* Create Bicycle
-* Different User-Classes
-and much more
+# UniBikeBot 🚲
 
-If you have questions, just ask them :)
+## Overview ℹ️
+### English 🇬🇧
+UniBikeBot is a Telegram bot designed for bicycle sharing. It offers a range of features, including:
 
+- 🚴‍♂️ Renting
+- 🚴‍♀️ Returning
+- 🚲 Creating Bicycle Listings
+- 👤 User-Class Differentiation
+- And more
 
-### GER
-Ein Telegram Bot mit dem du Fahrräder teilen kannst. 
-Er hat ein paar Funktionen wie:
-* Ausleihen
-* Abstellen
-* Fahrrad Erstellen
-* Verschiedene Benutzerklassen
-uvm.
+If you have any questions or need assistance, feel free to ask! 🙋‍♂️🙋‍♀️
 
-Wenn ihr Fragen habt, stellt sie einfach :)
+### German 🇩🇪
+UniBikeBot ist ein Telegram-Bot, der sich auf die gemeinsame Nutzung von Fahrrädern spezialisiert hat. Er bietet eine Vielzahl von Funktionen, darunter:
 
-## Getting Started
+- 🚴‍♂️ Ausleihen
+- 🚴‍♀️ Zurückgeben
+- 🚲 Erstellen von Fahrradangeboten
+- 👤 Unterscheidung zwischen Benutzerklassen
+- Und vieles mehr
 
+Falls Sie Fragen haben oder Unterstützung benötigen, zögern Sie nicht, sie zu stellen! 🙋‍♂️🙋‍♀️
 
-## Authors
+## Getting Started 🚀
+
+## Author
 
 * **Bo Kern** - *Initial work*
